@@ -1,2 +1,2 @@
 # amiibo-bin-dataset
-Collecting amiibo bin data files.
+整理Amiibo bin文件，中文归档，并附加对应的装备图鉴。
